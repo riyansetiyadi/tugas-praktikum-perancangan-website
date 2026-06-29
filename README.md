@@ -2,6 +2,9 @@
 
 Repositori ini berisi kode hasil pengerjaan tugas praktikum perancangan website. Fokus utama dari tugas ini adalah memahami penerapan teknik pengodean dokumen HTML, penggunaan tag semantik, serta implementasi selektor CSS (*inline* dan *internal*).
 
+Halaman website dapat diakses melalui tautan berikut:
+[https://riyansetiyadi.github.io/tugas-praktikum-perancangan-website/](https://riyansetiyadi.github.io/tugas-praktikum-perancangan-website/)
+
 ## 📝 Daftar Instruksi / Soal Tugas
 
 Berikut adalah daftar instruksi tugas yang diimplementasikan langsung di dalam kode:
